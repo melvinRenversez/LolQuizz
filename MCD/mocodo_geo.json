@@ -1,0 +1,49 @@
+{
+  "width": 307,
+  "height": 468,
+  "cx": [
+    [ "ESPECES", 56 ],
+    [ "REGIONS", 162 ],
+    [ "ROLES", 267 ],
+    [ "APPARTENIR", 56 ],
+    [ "VENIR", 162 ],
+    [ "JOUER", 267 ],
+    [ "CHAMPIONS", 162 ],
+    [ "ETRE", 56 ],
+    [ "UTILISER", 162 ],
+    [ "AVOIR", 267 ],
+    [ "GENRE", 56 ],
+    [ "RESSOURCE", 162 ],
+    [ "PORTEE", 267 ]
+  ],
+  "cy": [
+    [ "ESPECES", 44 ],
+    [ "REGIONS", 44 ],
+    [ "ROLES", 44 ],
+    [ "APPARTENIR", 130 ],
+    [ "VENIR", 130 ],
+    [ "JOUER", 130 ],
+    [ "CHAMPIONS", 234 ],
+    [ "ETRE", 338 ],
+    [ "UTILISER", 338 ],
+    [ "AVOIR", 338 ],
+    [ "GENRE", 424 ],
+    [ "RESSOURCE", 424 ],
+    [ "PORTEE", 424 ]
+  ],
+  "shift": [
+    [ "APPARTENIR,ESPECES,0", 0 ],
+    [ "APPARTENIR,CHAMPIONS,0", 0 ],
+    [ "VENIR,REGIONS,0", 0 ],
+    [ "VENIR,CHAMPIONS,0", 0 ],
+    [ "JOUER,ROLES,0", 0 ],
+    [ "JOUER,CHAMPIONS,0", 0 ],
+    [ "ETRE,GENRE,0", 0 ],
+    [ "ETRE,CHAMPIONS,0", 0 ],
+    [ "UTILISER,RESSOURCE,0", 0 ],
+    [ "UTILISER,CHAMPIONS,0", 0 ],
+    [ "AVOIR,PORTEE,0", 0 ],
+    [ "AVOIR,CHAMPIONS,0", 0 ]
+  ],
+  "ratio": []
+}
