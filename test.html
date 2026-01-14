@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+
+    body {
+        height: 100dvh;
+        background-color: black;
+        
+        cursor: url("assets/images/cursors/normal_new.cur"), auto;
+
+    }
+
+    .pointer {
+        width: 200px;
+        height: 200px;
+        background-color: red;
+
+        font-size: 30px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        
+        cursor: url("assets/images/cursors/normal_old.cur"), pointer;
+    }
+
+    .normal {
+        width: 200px;
+        height: 200px;
+        background-color: green;
+
+        font-size: 30px;
+
+        display: flex;
+        align-items: center;
+
+    }
+
+</style>
+
+<body>
+    
+    <div class="pointer">
+        pointer
+    </div>
+    
+    <div class="normal">
+        normal
+    </div>
+
+</body>
+</html>
